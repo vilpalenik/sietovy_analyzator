@@ -1,0 +1,2 @@
+python assignment1/assignment1.py -f vzorky_pcap_na_analyzu/trace-26.pcap -p http
+python validator_yaml_output\validator.py -s validator_yaml_output\schemas\schema-all.yaml -d output.yaml
